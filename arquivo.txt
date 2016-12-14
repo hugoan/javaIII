@@ -1,0 +1,2 @@
+Estou testando com a entrada a
+partir de um arquivo.
